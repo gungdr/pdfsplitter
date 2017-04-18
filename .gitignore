@@ -1,0 +1,4 @@
+vendor/
+result/
+*.lock
+*.pdf
